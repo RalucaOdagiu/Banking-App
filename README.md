@@ -1,2 +1,2 @@
 # MyFirstProjects
-small projects
+small banking app
